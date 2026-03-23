@@ -8,7 +8,7 @@ Este projeto, demandado na agenda 5 do curso de desenvolvimento de sistemas da E
  <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <div style="display: inline_block"><br>
  <img align="center" alt="VS Code" height="40" width="40"
-src="https://cdn.jsdelivr.net/npm/vscode-icons-js@11.6.1/dist/Index.min.js">
+src="https://cdn.jsdelivr.net/npm/vscode-icons-svg@2.0.0/dist/vscode-icons-svg.min.js">
 
 ## ⁉️ Fórmula para o Cálculo
 As fórmulas utilizadas para o cálculo são:<br>
