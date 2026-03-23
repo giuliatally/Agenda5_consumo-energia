@@ -6,16 +6,14 @@ Este projeto, demandado na agenda 5 do curso de desenvolvimento de sistemas da E
 ## 🛠️ Tecnologias Utilizadas 🛠️
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<div style="display: inline_block"><br>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <div style="display: inline_block"><br>
  <img align="center" alt="VS Code" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+src="https://cdn.jsdelivr.net/npm/vscode-icons-js@11.6.1/dist/Index.min.js">
 
 ## ⁉️ Fórmula para o Cálculo
-A fórmula utilizada para o cálculo é a seguinte:<br>
-consumo_mensal = (potencia * horas_dia * 30) / 1000<br>
-valor_kwh = 0.90<br>
-custo = consumo_mensal * valor_kwh
+As fórmulas utilizadas para o cálculo são:<br>
+1. consumo_mensal = (potencia * horas_dia * 30) / 1000<br>
+2. custo = consumo_mensal * valor_kwh
 
 ## 📓 Instruções de Uso
 Para utilizar a calculadora, siga os passos abaixo:
