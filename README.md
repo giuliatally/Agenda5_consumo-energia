@@ -12,9 +12,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 ## ⁉️ Fórmula para o Cálculo
-A fórmula utilizada para o cálculo é a seguinte:
-consumo_mensal = (potencia * horas_dia * 30) / 1000
-valor_kwh = 0.90
+A fórmula utilizada para o cálculo é a seguinte:<br>
+consumo_mensal = (potencia * horas_dia * 30) / 1000<br>
+valor_kwh = 0.90<br>
 custo = consumo_mensal * valor_kwh
 
 ## 📓 Instruções de Uso
